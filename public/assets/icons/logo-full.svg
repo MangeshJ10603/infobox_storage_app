@@ -1,0 +1,10 @@
+<svg width="224" height="80" viewBox="0 0 250 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- File Body -->
+    <rect x="10" y="10" width="74" height="60" rx="8" fill="white" opacity="0.8" />
+
+    <!-- File Tab -->
+    <rect x="50" y="10" width="30" height="20" rx="8" fill="white" />
+
+    <!-- Name outside the file -->
+    <text x="170" y="67" fill="white" font-weight="bolder" font-size="46" font-family="Arial, sans-serif" text-anchor="middle">infobox</text>
+</svg>
